@@ -45,6 +45,7 @@ httpx==0.28.1
 idna==3.10
 ImageHash==4.3.1
 importlib_metadata==8.7.0
+importlib_resources==6.5.2
 ipykernel==6.29.5
 ipython==9.3.0
 ipython_pygments_lexers==1.1.1
@@ -132,6 +133,7 @@ squarify==0.4.4
 stack-data==0.6.3
 statsmodels==0.14.4
 strsimpy==0.2.1
+sweetviz==2.3.1
 terminado==0.18.1
 threadpoolctl==3.6.0
 tinycss2==1.4.0
